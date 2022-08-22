@@ -1,0 +1,8 @@
+{
+  "name": "java-template",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "semantic-release": "^19.0.3"
+  }
+}
